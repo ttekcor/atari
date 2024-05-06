@@ -1,0 +1,2 @@
+model_checkpoint_path: "atari_model_200.0"
+all_model_checkpoint_paths: "atari_model_200.0"
